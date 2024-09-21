@@ -13,7 +13,7 @@ setup(
     description="A custom logging package for Django applications with automatic configuration",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/django-custom-logger",
+    url="https://github.com/niraj876/django_custom_logger.git",
     packages=find_packages(exclude=["tests*"]),
     classifiers=[
         "Development Status :: 3 - Alpha",
